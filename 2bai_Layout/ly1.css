@@ -1,0 +1,42 @@
+body {
+    margin: 0%;
+}
+
+.boxcenter {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.wraper {
+    float: left;
+    width: 100%;
+}
+
+header {
+    background-color: rgb(124, 112, 212);
+    min-height: 200px;
+}
+
+nav {
+    background-color: palegreen;
+    min-height: 50px;
+}
+
+article {
+    float: left;
+    width: 70%;
+    background-color: palevioletred;
+    min-height: 350px;
+}
+
+aside {
+    float: left;
+    width: 30%;
+    background-color: rgb(151, 80, 80);
+    min-height: 350px;
+}
+
+footer {
+    background-color: rgb(198, 172, 41);
+    min-height: 150px;
+}
