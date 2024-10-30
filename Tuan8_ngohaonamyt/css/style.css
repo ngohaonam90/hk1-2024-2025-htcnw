@@ -1,0 +1,17 @@
+.container{
+    width: 960px;
+    
+border: 1px solid;
+}
+h5{
+    font-size: 15px;
+    color: rgb(194, 190, 190);
+}
+button{
+    background: none;
+    border: none;
+    font-size: 20px;
+}
+span{
+    color: red;
+}
