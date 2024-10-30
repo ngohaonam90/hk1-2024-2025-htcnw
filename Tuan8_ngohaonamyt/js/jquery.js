@@ -7,7 +7,7 @@ $("#vien").val("123456789");
 $("#ten").val("Nguyen Van Anh");
 $("#meo").val("trangtran@iuh.edu.vn");
 $("#tiendung").val("0");
-
+$("#gia").val("0");
 
 
 
